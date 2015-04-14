@@ -1,0 +1,3 @@
+This project seeks to achieve an independent and open-source implementation of Micorosft's Server Message Block 2 protocol in C#.
+
+The author believes that this implementation is protected from patent claims under the "The Microsoft Patent Pledges for Implementations of Microsoft Workgroup Server Protocol Program Technical Specifications" (http://www.microsoft.com/openspecifications/en/us/programs/wspp/wspp-patent-pledges/default.aspx).
